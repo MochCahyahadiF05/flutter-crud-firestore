@@ -20,13 +20,13 @@ Aplikasi Flutter Crud Barang Sederhana menggunakan FireStore sebagai databasenya
     <td><img src="assets/img/add.png" width="300"></td>
     <td><img src="assets/img/edit.png" width="300"></td>
   </tr>
-  <tr>
-    <td colspan="3" align="center"><img src="assets/img/about.jpeg" width="300"></td>
-  </tr>
 </table>
 
 ---
 
 ## 📹 Demo Video
+
+https://github.com/user-attachments/assets/052f2b1a-4167-49a9-8b6e-5d92ecf344e9
+
 
 [![Tonton Demo 📹](https://img.shields.io/badge/Tonton%20Demo-Video-blue?style=for-the-badge)](assets/video/demo.mp4)
