@@ -25,7 +25,8 @@ Aplikasi Flutter Crud Barang Sederhana menggunakan FireStore sebagai databasenya
   </tr>
 </table>
 
-<video width="300" controls>
-  <source src="assets/video/demo.mp4" type="video/mp4">
-  Browser Anda tidak mendukung video tag.
-</video>
+---
+
+## 📹 Demo Video
+
+[![Tonton Demo 📹](https://img.shields.io/badge/Tonton%20Demo-Video-blue?style=for-the-badge)](assets/video/demo.mp4)
