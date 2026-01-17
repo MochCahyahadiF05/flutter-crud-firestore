@@ -26,6 +26,4 @@ Aplikasi Flutter Crud Barang Sederhana menggunakan FireStore sebagai databasenya
 
 ## 📹 Demo Video
 
-<div align="center">
-  https://github.com/user-attachments/assets/052f2b1a-4167-49a9-8b6e-5d92ecf344e9
-</div>
+https://github.com/user-attachments/assets/052f2b1a-4167-49a9-8b6e-5d92ecf344e9
